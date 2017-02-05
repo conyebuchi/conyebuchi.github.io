@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "NewSite-01-31_0511",
+    "name": "makemoney.org",
     "currentPage": "makemoney.org",
     "theme": {
       "name": "default",
@@ -9,7 +9,9 @@
     },
     "versionFirst": "3.11.1",
     "uniqCompNum": 11,
-    "versionPublish": "3.11.1"
+    "versionPublish": "3.11.1",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -208,7 +210,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LOGIN</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/money-2-2000x1500.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
@@ -219,7 +221,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LOGIN&nbsp;</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/money-4-2000x1500.jpg",
                 "contentAlign": "center",
                 "overlay": true,
